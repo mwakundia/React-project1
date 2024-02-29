@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Java Programming",
+      "author": "Mary",
+      "body": "This is my first blog post. I am excited to start learning web development.",
+      "id": "2"
+    },
+    {
+      "title": "Dev ops Engineer",
+      "author": "Samson",
+      "body": "This is my first blog post. I am excited to start learning web development.",
+      "id": "3"
+    },
+    {
+      "id": "547d",
+      "title": "npmm;kmklnm",
+      "author": "klmklmklmk",
+      "body": "lmlkmklm"
+    },
+    {
+      "id": "0ddd",
+      "title": "software",
+      "author": "john doe",
+      "body": "fcsgvadwjkrfkljkv;lkrw;'"
+    }
+  ]
+}
